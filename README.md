@@ -1,17 +1,29 @@
-## The new file extension is ".huh"!
-<hr>
-Try the following ways to use the new file extension;
-```bash
-git clone https://github.com/yigitkabak/huh
-```
-Set up packages now.
-```bash
-cargo build
-```
-Set up the file.txt file e start the project.
-```bash
-cargo run
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New File Extension .huh</title>
+</head>
+<body>
 
-<hr>
-All rights reserved are protected by the <a href="LICANSE">APACHE license.</a>
+    <h2>The new file extension is ".huh"!</h2>
+
+    <hr>
+
+    <p>Try the following ways to use the new file extension:</p>
+
+    <pre><code>git clone https://github.com/yigitkabak/huh</code></pre>
+    
+    <p>Set up packages now:</p>
+    <pre><code>cargo build</code></pre>
+
+    <p>Set up the <code>file.txt</code> file and start the project:</p>
+    <pre><code>cargo run</code></pre>
+
+    <hr>
+
+    <p>All rights reserved are protected by the <a href="LICENSE">APACHE license.</a></p>
+
+</body>
+</html>
