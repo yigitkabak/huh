@@ -1,29 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>New File Extension .huh</title>
-</head>
-<body>
 
-    <h2>The new file extension is ".huh"!</h2>
+## The new file extension is ".huh"!
 
-    <hr>
+---
 
-    <p>Try the following ways to use the new file extension:</p>
+Try the following ways to use the new file extension:
 
-    <pre><code>git clone https://github.com/yigitkabak/huh</code></pre>
-    
-    <p>Set up packages now:</p>
-    <pre><code>cargo build</code></pre>
+```bash
+git clone https://github.com/yigitkabak/huh
+```
 
-    <p>Set up the <code>file.txt</code> file and start the project:</p>
-    <pre><code>cargo run</code></pre>
+Set up packages now:
 
-    <hr>
+```bash
+cargo build
+```
 
-    <p>All rights reserved are protected by the <a href="LICENSE">APACHE license.</a></p>
+Set up the `file.txt` file and start the project:
 
-</body>
-</html>
+```bash
+cargo run
+```
+
+---
+
+All rights reserved are protected by the [APACHE license](LICENSE).
