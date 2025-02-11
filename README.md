@@ -4,11 +4,11 @@ Try the following ways to use the new file extension;
 ```
 git clone https://github.com/yigitkabak/huh
 ```
-- Set up packages now.
+Set up packages now.
 ```
 cargo build
 ```
-- Set up the file.txt file e start the project.
+Set up the file.txt file e start the project.
 ```
 cargo run
 ```
