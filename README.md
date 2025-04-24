@@ -12,22 +12,17 @@ git clone https://github.com/yigitkabak/huh
 Set up packages now:
 
 ```bash
-cargo build
+chmod +x install.sh
 ```
 
-Set up the `file.txt` file and start the project:
+Now huh u install it on your system;
 
 ```bash
-cargo run
+./install.sh
 ```
+After installation, follow the locality it gives you.
 
-To build your project in release mode and generate an optimized executable:
-
-```bash
-cargo build --release
-```
-
-This command will compile the project and generate an executable file. On Windows, the output will be a `.exe` file located in the `target/release` directory.
+You can come to our [Discord server](https://discord.gg/hqu2mkZFub) for support.
 
 ---
 
