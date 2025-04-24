@@ -12,7 +12,7 @@ git clone https://github.com/yigitkabak/huh
 Set up packages now:
 
 ```bash
-chmod +x install.sh
+cd huh && chmod +x install.sh
 ```
 
 Now huh u install it on your system;
