@@ -163,6 +163,7 @@ fn view_image(path: &PathBuf) -> Result<(), Box<dyn Error>> {
         huh_to_image(path, &temp_path)?;
         
         let config = Config {
+            premultiplied_alpha: false, // Eklendi
             width: None,
             height: None,
             absolute_offset: false,
@@ -180,6 +181,7 @@ fn view_image(path: &PathBuf) -> Result<(), Box<dyn Error>> {
         std::fs::remove_file(temp_path)?;
     } else {
         let config = Config {
+            premultiplied_alpha: false, // Eklendi
             width: None,
             height: None,
             absolute_offset: false,
