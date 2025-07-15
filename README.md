@@ -17,7 +17,15 @@ cd src/scripts; bash linux.sh (If you're using Termux, type termux.sh)
 
 After installation, follow the locality it gives you.
 
-You can come to our [Discord server](https://discord.gg/hqu2mkZFub) for support.
+---
+
+## If you are using aperium
+
+**all you have to do is:**
+```
+aper install huh.apr
+```
+and do what is written in the `INSTALL` file.
 
 ---
 
