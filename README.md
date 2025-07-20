@@ -23,7 +23,7 @@ After installation, follow the locality it gives you.
 
 **all you have to do is:**
 ```
-aper install huh.apr
+aper install huh.apm
 ```
 and do what is written in the `INSTALL` file.
 
