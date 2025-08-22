@@ -6,7 +6,7 @@
 Try the following ways to use the new file extension:
 
 ```bash
-aperium clone -github yigitkabak/huh
+git clone https://github.com/yigitkabak/huh
 ```
 
 Set up packages now:
@@ -29,4 +29,4 @@ and do what is written in the `INSTALL` file.
 
 ---
 
-All rights reserved are protected by the [APACHE license](LICENSE).
+All rights reserved are protected by the [GPL](LICENSE).
