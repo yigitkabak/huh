@@ -19,14 +19,4 @@ After installation, follow the locality it gives you.
 
 ---
 
-## If you are using aperium
-
-**all you have to do is:**
-```
-aper install huh.apm
-```
-and do what is written in the `INSTALL` file.
-
----
-
 All rights reserved are protected by the [GPL](LICENSE).
